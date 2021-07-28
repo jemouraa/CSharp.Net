@@ -1,0 +1,16 @@
+C:\Users\usuario\Digitalinovation\bin\Debug\net5.0\Digitalinovation.exe
+C:\Users\usuario\Digitalinovation\bin\Debug\net5.0\Digitalinovation.deps.json
+C:\Users\usuario\Digitalinovation\bin\Debug\net5.0\Digitalinovation.runtimeconfig.json
+C:\Users\usuario\Digitalinovation\bin\Debug\net5.0\Digitalinovation.runtimeconfig.dev.json
+C:\Users\usuario\Digitalinovation\bin\Debug\net5.0\Digitalinovation.dll
+C:\Users\usuario\Digitalinovation\bin\Debug\net5.0\ref\Digitalinovation.dll
+C:\Users\usuario\Digitalinovation\bin\Debug\net5.0\Digitalinovation.pdb
+C:\Users\usuario\Digitalinovation\obj\Debug\net5.0\Digitalinovation.csproj.AssemblyReference.cache
+C:\Users\usuario\Digitalinovation\obj\Debug\net5.0\Digitalinovation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Digitalinovation\obj\Debug\net5.0\Digitalinovation.AssemblyInfoInputs.cache
+C:\Users\usuario\Digitalinovation\obj\Debug\net5.0\Digitalinovation.AssemblyInfo.cs
+C:\Users\usuario\Digitalinovation\obj\Debug\net5.0\Digitalinovation.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Digitalinovation\obj\Debug\net5.0\Digitalinovation.dll
+C:\Users\usuario\Digitalinovation\obj\Debug\net5.0\ref\Digitalinovation.dll
+C:\Users\usuario\Digitalinovation\obj\Debug\net5.0\Digitalinovation.pdb
+C:\Users\usuario\Digitalinovation\obj\Debug\net5.0\Digitalinovation.genruntimeconfig.cache
